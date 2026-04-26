@@ -2,7 +2,7 @@
 Placas Interface - Prime Placas
 </h1>
 <br>
-<h3 align="center">Tecnologias utilizadas: HTML Semântico, CSS, JavaScript e Responsividade.</h3>
+<h3 align="center">Tecnologias utilizadas: HTML Semântico, CSS e Responsividade.</h3>
 <br>
 <br>
 
